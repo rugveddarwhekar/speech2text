@@ -1,0 +1,4 @@
+com.example.test_audio
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
